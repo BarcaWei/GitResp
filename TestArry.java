@@ -13,6 +13,9 @@ public class TestArry {
         public String name;
         public long id;
 
+
+
+        //gghhghg
         public  People(int age,String name,long id){
             this.age=age;
             this.name=name;
